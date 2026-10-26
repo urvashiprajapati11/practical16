@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from "react";
-import Dashboard from "./components/Dashboard";
+import DashBoard from "./components/DashBoard";
 import ProductForm from "./components/ProductForm";
 import ProductList from "./components/ProductList";
 
